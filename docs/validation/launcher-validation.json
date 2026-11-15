@@ -1,0 +1,26 @@
+{
+  "LauncherArchitecture": "native x86 GUI",
+  "BundledJava": "Temurin 25.0.5 x64",
+  "ExternalJava32": "Temurin 8u472 x32",
+  "ExternalJava64": [
+    "Oracle 25.0.1 x64",
+    "Oracle 8u321 x64"
+  ],
+  "SearchTests": [
+    "JAVA_HOME x64",
+    "JAVA_HOME x32",
+    "JRE_HOME x32",
+    "PATH x32",
+    "Windows registry x64"
+  ],
+  "RealSQLiteNativeLibraryLoadedEachMode": true,
+  "BundledPriorityOverJavaHome32": true,
+  "MissingJavaError": "tested with isolated discovery functions",
+  "UnsupportedJava7": "rejected",
+  "Gui32": "opened, local profile, heap 512m, clean exit",
+  "Gui64": "opened, bundled runtime preferred, clean exit",
+  "FullCatalogJava32": "149194-player integration passed",
+  "WALSHMAfterExit": false,
+  "DataProfile": "data beside EXE",
+  "Separate32BitWindowsTested": false
+}

@@ -1,0 +1,40 @@
+# Local inputs, dependency cache and generated artifacts
+/vendor/*
+!/vendor/upstream/
+/vendor/upstream/*
+/.cache/
+/.local/
+/build/
+/dist/
+/releases/
+
+# User profiles and databases, including profiles inside test copies
+**/data/
+*.sqlite
+*.sqlite-*
+*.db3
+*.db3-*
+Players.xml
+ttwr.cfg
+ttwr_data.xml
+*.log
+
+# Compiled files and local tools
+*.class
+*.exe
+*.dll
+*.pdb
+*.jar
+*.dat
+!/vendor/upstream/ttwr.dat
+*.zip
+*.7z
+*.tmp
+*.part
+.idea/
+.vscode/
+.vs/
+Thumbs.db
+.DS_Store
+__pycache__/
+*.py[cod]

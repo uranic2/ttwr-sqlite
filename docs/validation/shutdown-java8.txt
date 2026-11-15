@@ -1,0 +1,5 @@
+PASS window: WAL/SHM removed, committed data retained, integrity ok
+PASS hook: WAL/SHM removed, committed data retained, integrity ok
+PASS rollback: WAL/SHM removed, committed data retained, integrity ok
+PASS external: WAL/SHM removed, committed data retained, integrity ok
+SQLITE_SHUTDOWN_OK

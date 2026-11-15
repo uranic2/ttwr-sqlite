@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "path": "vendor/upstream/ttwr.dat",
+    "sha256": "adc5d3c080485b4b87b5829db982895459425b2a99f9c6d4c6b7f687a96e4bad",
+    "note": "Original TTWR archive, included in Git as the pinned binary build input"
+  },
+  "artifacts": [
+    {
+      "name": "activation-1.1.1.jar",
+      "url": "https://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1.jar",
+      "sha256": "ae475120e9fcd99b4b00b38329bd61cdc5eb754eee03fe66c01f50e137724f99",
+      "group": "runtime"
+    },
+    {
+      "name": "commons-net-3.6.jar",
+      "url": "https://repo.maven.apache.org/maven2/commons-net/commons-net/3.6/commons-net-3.6.jar",
+      "sha256": "d3b3866c61a47ba3bf040ab98e60c3010d027da0e7a99e1755e407dd47bc2702",
+      "group": "runtime"
+    },
+    {
+      "name": "javax.mail.jar",
+      "url": "https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar",
+      "sha256": "45b515e7104944c09e45b9c7bb1ce5dff640486374852dd2b2e80cc3752dfa11",
+      "group": "runtime"
+    },
+    {
+      "name": "sqlite-jdbc-3.54.1.0.jar",
+      "url": "https://github.com/xerial/sqlite-jdbc/releases/download/3.54.1.0/sqlite-jdbc-3.54.1.0.jar",
+      "sha256": "f8dce420a6016278497f4f0560f65602b9db858de141b541cf91a4644ebe4639",
+      "group": "runtime"
+    },
+    {
+      "name": "slf4j-api-1.7.36.jar",
+      "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar",
+      "sha256": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
+      "group": "runtime"
+    },
+    {
+      "name": "slf4j-nop-1.7.36.jar",
+      "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.36/slf4j-nop-1.7.36.jar",
+      "sha256": "c214958b07816cb4412b30c7bdbd4308ffdc6ba2a83767b8f3a9229cbd9274d6",
+      "group": "runtime"
+    },
+    {
+      "name": "asm-9.7.1.jar",
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
+      "sha256": "8cadd43ac5eb6d09de05faecca38b917a040bb9139c7edeb4cc81c740b713281",
+      "group": "build"
+    }
+  ]
+}

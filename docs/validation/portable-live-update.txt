@@ -1,0 +1,1 @@
+SQLITE_CATALOG_OK players=149220 integrity=ok

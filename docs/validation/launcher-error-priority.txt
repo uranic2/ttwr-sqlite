@@ -1,0 +1,3 @@
+PASS missing Java: error exit 1; no UI in quiet test mode
+PASS Java 7 rejected before application launch
+PASS bundled Java 25 x64 preferred over JAVA_HOME x32

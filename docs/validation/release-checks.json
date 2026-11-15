@@ -1,0 +1,18 @@
+[
+  {
+    "flavor": "system-java",
+    "java": "bits=32",
+    "seedPlayers": 0,
+    "integrity": "ok",
+    "filesVerified": 19,
+    "sha256": "0b90c4b023cde500bf0ae0dc09507f406313b928dbff9873b1d5d3c37010f194"
+  },
+  {
+    "flavor": "windows-x64",
+    "java": "bits=64",
+    "seedPlayers": 0,
+    "integrity": "ok",
+    "filesVerified": 339,
+    "sha256": "2dd3f37436ab7e47103d9a831faaf0a7654a5781ac1a34d925d3b5d133da5264"
+  }
+]

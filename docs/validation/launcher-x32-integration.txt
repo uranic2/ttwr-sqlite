@@ -1,0 +1,1 @@
+SQLITE_INTEGRATION_OK: paging, Unicode, parameter binding, field tracking, transactions, history, original rating application, ranking, open backup, failed import, SaveAs, reopen, removal, integrity
